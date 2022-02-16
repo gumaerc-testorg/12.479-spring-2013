@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5dc740e3-d4ac-e89d-6a43-6b9442708794
 ---
@@ -215,7 +218,7 @@ Mason, B. M. _Victor Moritz Goldschmidt: Father of Modern Geochemistry. (Special
 
 McKay, G. "[Crystal/liquid Partitioning of REE in Basaltic Systems: Extreme Fractionation of REE in Olivine](http://dx.doi.org/10.1016/0016-7037(86)90049-9)." _Geochim Cosmochim Acta_ 50, no. 1 (1986): 69–79.
 
-McKenzie, D. "[230Th-238U Disequilibrium and the Melting Processes Beneath Ridge Axes](http://dx.doi.org/10.1016/0012-821X(85)90001-9)." _Earth and Planetary Science Letters_ 72, no. 2–3 (1985): 149–57.
+McKenzie, D. "[{{< sup "230" >}}Th-{{< sup "238" >}}U Disequilibrium and the Melting Processes Beneath Ridge Axes](http://dx.doi.org/10.1016/0012-821X(85)90001-9)." _Earth and Planetary Science Letters_ 72, no. 2–3 (1985): 149–57.
 
 Mysen, B., and M. G. Seitz. "[Trace Element Partitioning Determined by Beta-track Mapping: An Experimental Study Using Carbon and Samarium as Examples](http://dx.doi.org/10.1029/JB080i017p02627)." _Journal of Geophysical Research_ 80, no. 17 (1974): 2627–35.
 
