@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5dc740e3-d4ac-e89d-6a43-6b9442708794
 resourcetype: Document
 title: Trace-Element Geochemistry, Lecture Notes 7, Appendix 1
 uid: 7b3c5dcf-f798-e5dd-e2f8-752942e1c824

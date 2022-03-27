@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Seminars/Discussions
 parent_type: CourseSection
+parent_uid: 47554342-cec0-4b11-1812-f79a2c15727d
 resourcetype: Document
 title: Trace-Element Geochemistry, Seminar 12
 uid: 3c7de898-7d34-8e5d-d921-1e6e3d7bd175
