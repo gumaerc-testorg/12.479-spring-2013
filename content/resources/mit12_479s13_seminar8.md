@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding seminar 8.
-file: /media/courses/12-479-trace-element-geochemistry-spring-2013/ac0f54e0406b4a0e964f7405ca96c427_MIT12_479S13_Seminar8.pdf
+file: /courses/12-479-trace-element-geochemistry-spring-2013/ac0f54e0406b4a0e964f7405ca96c427_MIT12_479S13_Seminar8.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Trace-Element Geochemistry, Seminar 8
 uid: ac0f54e0-406b-4a0e-964f-7405ca96c427
 ---
+This file contains information regarding seminar 8.
+

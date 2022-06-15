@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-479-trace-element-geochemistry-spring-2013/7b3c5dcff798e5dde2f8752942e1c824_MIT12_479S13_lec7appendi.pdf
+file: /courses/12-479-trace-element-geochemistry-spring-2013/7b3c5dcff798e5dde2f8752942e1c824_MIT12_479S13_lec7appendi.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
