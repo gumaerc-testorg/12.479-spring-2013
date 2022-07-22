@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the notes for each session and a list of references.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5dc740e3-d4ac-e89d-6a43-6b9442708794
 ---
@@ -22,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Beginnings of geochemistry (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec1)
+{{% resource_link 92fd2ec1-36d6-2b59-f358-8f2e5db093ce "Beginnings of geochemistry (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Thermodynamic consideration of TE solid solutions (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec2)
+{{% resource_link 31ab842b-f61e-ce6e-8697-17c169b1d937 "Thermodynamic consideration of TE solid solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Partition coefficient (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec3)
+{{% resource_link ba3c2824-8633-c959-277c-1b66ddef74ff "Partition coefficient (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Ionic model for bonding and the role of ionic radii in understanding the partitioning of trace elements between phases (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec4)
+{{% resource_link 39b99fc7-03b4-6d1a-6aae-405457cae3cf "Ionic model for bonding and the role of ionic radii in understanding the partitioning of trace elements between phases (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Nomenclature for trace element classification (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec5)
+{{% resource_link f2104fa6-8fc1-5519-56e2-46bbae9d5f9d "Nomenclature for trace element classification (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Determination of partition coefficients (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec6)
+{{% resource_link 703d3f76-e3c3-6ca8-2160-1a40cb88127a "Determination of partition coefficients (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,9 +83,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Determination of partition coefficients: discussion of experimental approach (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec7)
+{{% resource_link 88a24b86-d5dc-0964-1790-2fe453928202 "Determination of partition coefficients: discussion of experimental approach (PDF)" %}}
 
-[Appendix (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec7appendi)
+{{% resource_link 7b3c5dcf-f798-e5dd-e2f8-752942e1c824 "Appendix (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -91,7 +96,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[More examples of experimental approaches for determination of TE partition coefficients (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec8)
+{{% resource_link a2a40746-1ee3-3c8e-5a54-e413d46bed15 "More examples of experimental approaches for determination of TE partition coefficients (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Trace element abundance variations in simple melt-solid systems (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec9)
+{{% resource_link 68f7b7aa-8f8a-cb2c-d997-22f860e8eb05 "Trace element abundance variations in simple melt-solid systems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +114,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Fractional crystallization (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec10)
+{{% resource_link e3818d4e-fcff-89c1-8664-c97116b2a2f6 "Fractional crystallization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +123,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Fractional melting (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec11)
+{{% resource_link 50d0f2f2-1b90-bd7b-2fec-5d63232b8755 "Fractional melting (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +132,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Complex melting models (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec12)
+{{% resource_link d9b2066a-5b24-3aee-4970-04c36a0fff73 "Complex melting models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Constraints on melt models arising from disequilibrium in the Th-U decay system (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec13)
+{{% resource_link 69d7a99d-7e60-018c-0bdb-723fe5c3fe75 "Constraints on melt models arising from disequilibrium in the Th-U decay system (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +150,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Ion exchange chromatography (PDF)]({{< baseurl >}}/resources/mit12_479s13_lec14)
+{{% resource_link 826cc293-9b70-0645-3585-9ef2bdda9f34 "Ion exchange chromatography (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ References
 
 Albarede, F., and Y. Bottinga. "[Kinetic Disequilibrium in Trace Element Partitioning Between Phenocrysts and Host Lava](http://dx.doi.org/10.1016/0016-7037(72)90003-8)." _Geochimica et Cosmochimica Acta_ 36 (1972): 141–56.
 
-Birle, J. D., G. V. Gibbs, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crustal Structure of Natural Olivines. (PDF - 1.1MB)](http://www.minsocam.org/ammin/AM53/AM53_807.pdf)" _Amer Mineral_ 53 (1968): 807–24.
+Birle, J. D., G. V. Gibbs, et al. "[Crustal Structure of Natural Olivines. (PDF - 1.1MB)](http://www.minsocam.org/ammin/AM53/AM53_807.pdf)" _Amer Mineral_ 53 (1968): 807–24.
 
 Blundy, J., and B. Wood. "Mineral-melt Partitioning of Uranium, Thorium, and their Daughters." In _Uranium-series Geochemistry: Reviews in Mineralogy and Geochemistry_. Vol. 52. Edited by Bourdon, Henderson, Lundstrom, and Turner. Mineral Society of America, 2003, pp. 50–123. ISBN: 9780939950645.
 
@@ -215,7 +220,7 @@ Mason, B. M. _Victor Moritz Goldschmidt: Father of Modern Geochemistry. (Special
 
 McKay, G. "[Crystal/liquid Partitioning of REE in Basaltic Systems: Extreme Fractionation of REE in Olivine](http://dx.doi.org/10.1016/0016-7037(86)90049-9)." _Geochim Cosmochim Acta_ 50, no. 1 (1986): 69–79.
 
-McKenzie, D. "[230Th-238U Disequilibrium and the Melting Processes Beneath Ridge Axes](http://dx.doi.org/10.1016/0012-821X(85)90001-9)." _Earth and Planetary Science Letters_ 72, no. 2–3 (1985): 149–57.
+McKenzie, D. "[{{< sup "230" >}}Th-{{< sup "238" >}}U Disequilibrium and the Melting Processes Beneath Ridge Axes](http://dx.doi.org/10.1016/0012-821X(85)90001-9)." _Earth and Planetary Science Letters_ 72, no. 2–3 (1985): 149–57.
 
 Mysen, B., and M. G. Seitz. "[Trace Element Partitioning Determined by Beta-track Mapping: An Experimental Study Using Carbon and Samarium as Examples](http://dx.doi.org/10.1029/JB080i017p02627)." _Journal of Geophysical Research_ 80, no. 17 (1974): 2627–35.
 
