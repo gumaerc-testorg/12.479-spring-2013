@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding seminar 1.
 file: /courses/12-479-trace-element-geochemistry-spring-2013/0b45ef35c795544dac366f83551d8cc6_MIT12_479S13_Seminar1.pdf
+file_size: 76872
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
