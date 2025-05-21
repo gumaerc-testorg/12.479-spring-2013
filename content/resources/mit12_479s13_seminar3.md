@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding seminar 3.
-file: /ol-ocw-studio-app/courses/12-479-trace-element-geochemistry-spring-2013/68c299e23380f3f6639b42bf45ce1196_MIT12_479S13_Seminar3.pdf
+file: /courses/12-479-trace-element-geochemistry-spring-2013/68c299e23380f3f6639b42bf45ce1196_MIT12_479S13_Seminar3.pdf
 file_size: 42967
 file_type: application/pdf
 learning_resource_types: []
